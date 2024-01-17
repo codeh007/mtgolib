@@ -1,5 +1,5 @@
 package utils
 
 func Foo() string {
-	return "foo"
+	return "foo2222222222222"
 }
